@@ -42,7 +42,7 @@ This Power BI report provides actionable insights into pizza sales performance, 
   - Time
   - Category (Classic, Veggie, etc.)
 
-Full details: [📘 Data Dictionary](docs/data_dictionary.md)
+Full details: [📘 Data Dictionary](https://github.com/Oacquah31/pizza_sales_dashboard/blob/main/Pizza%2BPlace%2BSales.zip)
 
 ---
 
