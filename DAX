@@ -1,0 +1,26 @@
+# 📊 Key DAX Measures – Pizza Sales Dashboard
+
+This document outlines core DAX measures used to calculate sales, customer activity, and time-based insights in the Power BI Pizza Sales Dashboard.
+
+---
+
+## 💰 1. Total Revenue
+
+Calculates total sales by multiplying quantity and price per pizza.
+
+```DAX
+Total Revenue = 
+SUMX(orders, orders[Quantity] * orders[Price])
+
+Average Sales per Day = 
+DIVIDE([Total Revenue], DISTINCTCOUNT('Calendar'[Date]))
+
+Order Hour = HOUR(orders[Time])
+
+Customers per Day = 
+CALCULATE(
+    DISTINCTCOUNT(orders[Order_ID]),
+    ALLEXCEPT('Calendar', 'Calendar'[Date])
+)
+
+
