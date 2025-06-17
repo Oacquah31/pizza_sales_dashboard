@@ -67,7 +67,6 @@ Read full insights: [📊 Insights Report](https://github.com/Oacquah31/pizza_sa
 
 ## 📷 Dashboard Previews
 
-> *(Replace with actual image paths once uploaded to `/images` folder)*
 
 ![Dashboard](https://github.com/Oacquah31/pizza_sales_dashboard/blob/main/Screenshot%202025-06-17%20024908.png)  
 
@@ -83,12 +82,6 @@ Read full insights: [📊 Insights Report](https://github.com/Oacquah31/pizza_sa
 
 ---
 
-## 📝 License
 
-This project is licensed under the MIT License.
 
----
 
-## 🙌 Acknowledgements
-
-Thanks to the Power BI community and data analytics best practices that inspired the structure of this dashboard.
