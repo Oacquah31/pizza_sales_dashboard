@@ -50,7 +50,7 @@ Full details: [📘 Data Dictionary](docs/data_dictionary.md)
 
 Explore DAX measures used for KPIs, time intelligence, and product-level insights.
 
-See: [📐 DAX Formulas](docs/dax_formulas.md)
+See: [📐 DAX Formulas](https://github.com/Oacquah31/pizza_sales_dashboard/commit/2d7181dd004763c9bf51d474c63a770c879c55db)
 
 ---
 
