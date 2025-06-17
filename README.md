@@ -69,8 +69,8 @@ Read full insights: [📊 Insights Report](https://github.com/Oacquah31/pizza_sa
 
 > *(Replace with actual image paths once uploaded to `/images` folder)*
 
-![Sales Overview](images/sales-overview.png)  
-![Hourly Trends](images/hourly-trends.png)
+![Dashboard](https://github.com/Oacquah31/pizza_sales_dashboard/blob/main/Screenshot%202025-06-17%20024908.png)  
+
 
 ---
 
