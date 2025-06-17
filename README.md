@@ -61,7 +61,7 @@ See: [📐 DAX Formulas](docs/dax_formulas.md)
 - Sales seasonality
 - Optimization opportunities
 
-Read full insights: [📊 Insights Report](docs/insights_report.md)
+Read full insights: [📊 Insights Report](https://github.com/Oacquah31/pizza_sales_dashboard/blob/main/docs/insights_report.md)
 
 ---
 
