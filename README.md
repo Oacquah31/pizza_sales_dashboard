@@ -78,7 +78,7 @@ Read full insights: [📊 Insights Report](https://github.com/Oacquah31/pizza_sa
 - Microsoft Power BI Desktop
 - Power Query (ETL)
 - DAX (Data Analysis Expressions)
-- GitHub (version control & documentation)
+  
 
 ---
 ## ✅ Conclusion
